@@ -30,11 +30,15 @@ h3 {
 main {
     min-height: 71vh;  
 }
+.greeting {
+    text-align: center;
+}
 .container {
     max-width: 800px;
     margin: auto;
     padding: 20px;
 }
+
 .row {
     display: flex;
     flex-wrap: wrap;
